@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Simon.
+# Hi there 👋, I'm Simon.
 
 ## Interests and Experience
 * 🤖 Machine Learning
